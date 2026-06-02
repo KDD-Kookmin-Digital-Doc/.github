@@ -95,6 +95,10 @@ KDD는 세 개의 독립적인 서버로 구성된 마이크로서비스 아키�
 |:---:|:---:|:---:|
 | ![채팅 세션](screenshots/03-chat-session.png) | ![출처 인용](screenshots/04-chat-sources.png) | ![검색 모달](screenshots/05-search-modal.png) |
 
+| 인라인 출처 클릭 → PDF 뷰어 (근거 페이지로 점프) |
+|:---:|
+| ![PDF 뷰어](screenshots/04b-pdf-viewer.png) |
+
 ### 자료실 & FAQ
 
 | FAQ 목록 | FAQ 답변 펼침 |
