@@ -21,7 +21,7 @@
 
 ## 📖 KDD란?
 
-**KDD(Kookmin Digital Dog)** 는 국민대학교 소프트웨어융합대학 학생들이 학사 규정, 공지사항, 자주 묻는 질문을 자연어로 검색하고 답변받을 수 있는 **RAG(Retrieval-Augmented Generation) 기반 AI 에이전트**입니다.
+**KDD(Kookmin Digital Dog)** 는 국민대학교 소프트웨어융합대학 학생들이 학사 규정, 공지사항, 자주 묻는 질문을 자연어로 검색하고 답변받을 수 있는 **RAG(Retrieval-Augmented Generation) 기반 AI **입니다.
 
 일반 챗봇과 달리, 모든 답변은 **실제 학사 문서를 근거로 인용**하고 답변의 **신뢰도를 함께 표시**합니다. 사용자는 답변 속 인용 마커를 눌러 근거가 된 PDF 문서의 해당 페이지를 바로 확인할 수 있습니다.
 
